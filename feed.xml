@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="">
+<channel>
+<atom:link href="https://dmnfarrell.github.io/podcast.rss" rel="self" type="application/rss+xml"/>
+<title>Podcast Example</title>
+<link>https://dmnfarrell.github.io/podcast-example</link>
+<language/>
+<copyright>© 2022 Podcast Example</copyright>
+<itunes:subtitle/>
+<itunes:author/>
+<itunes:summary>Podcasts with github </itunes:summary>
+<description>Podcasts with github </description>
+<webMaster>na ()</webMaster>
+<itunes:owner>
+<itunes:name/>
+<itunes:email>na</itunes:email>
+</itunes:owner>
+<itunes:image href="https://dmnfarrell.github.io/podcast-example/img/logo.png"/>
+<itunes:category text="Technology"/>
+<itunes:category text="Education">
+<itunes:category text="Educational"/>
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>About Jekyll</title>
+<itunes:author/>
+<itunes:subtitle>Podcast Example: About Jekyll</itunes:subtitle>
+<itunes:summary/>
+<itunes:image href="https://dmnfarrell.github.io/podcast-example//img/jekyll-logo.png"/>
+<enclosure url="https://github.com/dmnfarrell/podcast-example/raw/master/audio/jekyll-hyde.mp3" length="461569" type="audio/mp3"/>
+<guid isPermaLink="true">https://dmnfarrell.github.io/podcast-example/test2.html</guid>
+<pubDate>Mon, 19 Sep 2022 01:24:34 +0000</pubDate>
+<itunes:duration>00:37</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Just a test site with audio posting. Show Notes Available at https://dmnfarrell.github.io/podcast-example/test2.html.</description>
+<itunes:keywords>jekyll</itunes:keywords>
+<itunes:block/>
+</item>
+<item>
+<title>What is Atom?</title>
+<itunes:author/>
+<itunes:subtitle>Podcast Example: What is Atom?</itunes:subtitle>
+<itunes:summary/>
+<itunes:image href="https://dmnfarrell.github.io/podcast-example//img/logo.png"/>
+<enclosure url="https://github.com/dmnfarrell/podcast-example/raw/master/audio/track1.mp3" length="1029183" type="audio/mp3"/>
+<guid isPermaLink="true">https://dmnfarrell.github.io/podcast-example/test1.html</guid>
+<pubDate>Mon, 19 Sep 2022 01:23:34 +0000</pubDate>
+<itunes:duration>00:50</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> All about atom and rss - test. Show Notes Available at https://dmnfarrell.github.io/podcast-example/test1.html.</description>
+<itunes:keywords>atom</itunes:keywords>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>
