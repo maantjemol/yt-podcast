@@ -26,4 +26,4 @@ jobs:
           python -m pip install --upgrade pip
           pip install numpy
       - name: execute py script # run py script
-        run: python main.py
+        run: python _automation/main.py
