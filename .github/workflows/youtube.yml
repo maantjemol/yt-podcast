@@ -26,6 +26,6 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install pytube FeedGenerator
+          pip install pytube feedgen
       - name: execute py script # run py script
         run: python _automation/main.py
